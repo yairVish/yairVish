@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yairVish
-- 👀 android development and networks
+- 👀 Android development and networks
 - 🌱 ASM and Operating Systems
 - 💞️ everything that about development (:
 - 📫 in the mail: yair.vishne@gmail.com
