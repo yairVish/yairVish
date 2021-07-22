@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yairVish
 - 👀 Android development and networks
-- 🌱 ASM and Operating Systems
+- 🌱 Assembly
 - 💞️ everything that about development (:
 - 📫 in the mail: yair.vishne@gmail.com
 
