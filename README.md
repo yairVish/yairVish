@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yairVish
-- 👀 Android development and networks
-- 🌱 Assembly
-- 💞️ everything that about development (:
+- 👀 Interested in Android development and networks
+- 🌱 I'm currently learning Assembly
+- 💞️ I like everything that about development (:
 - 📫 in the mail: yair.vishne@gmail.com
 
 <!---
