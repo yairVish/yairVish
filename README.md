@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yairVishne
 - 👀 Interested in Android development and networks
-- 🌱 I'm currently learning Assembly
+- 🌱 I'm currently developing an operating system
 - 💞️ I like everything that about development (:
 - 📫 In the mail: yair.vishne@gmail.com
 
